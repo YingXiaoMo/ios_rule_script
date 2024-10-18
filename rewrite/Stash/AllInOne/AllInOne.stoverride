@@ -1,5 +1,5 @@
 name: AllInOne
-desc: 最后更新时间 2024-10-16 02:15:59
+desc: 最后更新时间 2024-10-18 02:15:46
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
@@ -1009,7 +1009,6 @@ http:
     - "apapia-sqk.manmanbuy.com"
     - "api*.futunn.com"
     - "api*.musical.ly"
-    - "api-access.pangolin-sdk-toutiao.com"
     - "api-ad-product.huxiu.com"
     - "api-fouth-mem.huazhu.com"
     - "api-marketing.zhinengxiyifang.cn"
@@ -1544,6 +1543,7 @@ http:
     - "weixin110.qq.com"
     - "wmapi.meituan.com"
     - "wp3.lobdol.cn"
+    - "www.123pan.com"
     - "www.51devapp.com"
     - "www.abbyychina.com"
     - "www.ahzs10000.com"
